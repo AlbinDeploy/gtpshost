@@ -1,8 +1,8 @@
-const androidHosts = `168.144.39.237 growtopia1.com
-168.144.39.237 growtopia2.com
-168.144.39.237 www.growtopia1.com
-168.144.39.237 www.growtopia2.com
-168.144.39.237 growtopiagame.com`;
+const androidHosts = `159.223.55.38 growtopia1.com
+159.223.55.38 growtopia2.com
+159.223.55.38 www.growtopia1.com
+159.223.55.38 www.growtopia2.com
+159.223.55.38 growtopiagame.com`;
 
 export async function GET() {
   return new Response(androidHosts, {
