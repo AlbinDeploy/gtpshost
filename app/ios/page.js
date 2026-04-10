@@ -4,8 +4,8 @@ const iosHosts = `[General]
 FINAL,DIRECT
 
 [Host]
-www.growtopia1.com = 178.128.211.32
-www.growtopia2.com = 178.128.211.32`;
+www.growtopia1.com = 157.66.54.162
+www.growtopia2.com = 157.66.54.162`;
 
 export default function IOSPage() {
   return (
