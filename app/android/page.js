@@ -1,8 +1,8 @@
-const androidHosts = `178.128.61.71 growtopia1.com
-178.128.61.71 growtopia2.com
-178.128.61.71 www.growtopia1.com
-178.128.61.71 www.growtopia2.com
-178.128.61.71 growtopiagame.com`;
+const androidHosts = `157.66.54.162 growtopia1.com
+157.66.54.162 growtopia2.com
+157.66.54.162 www.growtopia1.com
+157.66.54.162 www.growtopia2.com
+157.66.54.162 growtopiagame.com`;
 
 export default function AndroidPage() {
   return (
