@@ -4,8 +4,8 @@ const iosHosts = `[General]
 FINAL,DIRECT
 
 [Host]
-www.growtopia1.com = 165.232.172.148
-www.growtopia2.com = 165.232.172.148`;
+www.growtopia1.com = 157.66.54.162
+www.growtopia2.com = 157.66.54.162`;
 
 export async function GET() {
   return new Response(iosHosts, {
